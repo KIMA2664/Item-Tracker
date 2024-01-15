@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(209, 238, 236);
+    padding-top: 30px;
+    
+}
+
+h1{
+    text-align:center;
+    font-size:50px;
+    font-family: cursive, sans-serif;
+    margin-bottom:-10px;
+    color:#3498db
+}
+
+img{
+    display: block;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left:42.5%;
+    margin-right:auto;
+    block-size: 100px;
+}
+
+p{
+    font-style:italic;
+    font-family: cursive, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+article a {
+    display: inline-block;
+    margin-top: 10px;
+    color: black;
+    font-family: monospace, sans-serif;
+    font-size: 40px;
+}
+
+.sign-in {
+    margin-left:40px;
+    text-align:left;
+    width: 45%;
+}
+
+.sign-up {
+    text-align:right;
+    width: 45%;
+}
+
+article a:hover {
+    color:rgb(51, 5, 137);
+    font-style:underline;
+    text-decoration-line: underline;
+}
+
